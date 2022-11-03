@@ -7,12 +7,12 @@ import java.lang.Math;
 
 public class Main {
     public static void main(String[] args){
-        //quadraticEquation();
-        //functionValue();
+        quadraticEquation();
+        functionValue();
         minMax();
-        //weatherBus();
-        //bonusCar();
-        //calculator();
+        weatherBus();
+        bonusCar();
+        calculator();
     }
 
     public static double getDouble(){return new Scanner(System.in).nextDouble();}
